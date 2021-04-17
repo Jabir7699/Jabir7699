@@ -34,7 +34,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@Jabir Ibrahim](https://instagram.com/jabir_ibrahim__);
-- 📝 [Resume](JABIR B PACE RESUME.pdf)
+- 📝 [Resume](JABIR_B_PACE_RESUME.pdf)
 
 **Languages and Tools:**  
 
