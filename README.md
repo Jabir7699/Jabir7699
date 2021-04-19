@@ -49,28 +49,12 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-HTML   17 hrs 47 mins  ████████████████▒░░░░░░░░   65.99 % 
-CSS          6 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.66 % 
-JS         2 hrs 5 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-Other        17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-Bootstrap         8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-```
-<!--END_SECTION:waka-->
+
 
 If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/buvaxaja" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **My Todoist Stats:**
-<!-- TODO-IST:START -->
-🏆  7,798 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 632 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
 
 
 📈 My GitHub Stats
