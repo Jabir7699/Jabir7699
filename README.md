@@ -51,10 +51,10 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabir7699&layout=compact)](https://github.com/jabir7699/github-readme-stats)
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabir7699&layout=compact)](https://github.com/jabir7699/github-readme-stats">
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jabir7699&show_icons=true&theme=gotham&bg_color=45,#cc2b5e,#753a88" alt="jabir7699" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jabir7699&show_icons=true&theme=gotham&bg_color=#cc2b5e" alt="jabir7699" />
 
 
 
