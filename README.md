@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://www.linkedin.com/in/jabir-b-03a378191/">
+<a href="https://www.linkedin.com/in/jabirb/">
   <img align="left" alt="Jabir's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -51,6 +51,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br>
 <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jabir7699&layout=compact)](https://github.com/jabir7699/github-readme-stats)
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jabir7699&show_icons=true&theme=gotham&bg_color=45,#cc2b5e,#753a88" alt="jabir7699" />
