@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://www.linkedin.com/in/jabirb/">
-  <img align="left" alt="Jabir's LinkedIN" width="22px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="left" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Jabir7699.Jabir7699)
@@ -51,10 +51,11 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <br>
 <br>
+<div>
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabir7699&layout=compact)](https://github.com/jabir7699/github-readme-stats">
 📈 My GitHub Stats
 
 <p align="right"> <img src="https://github-readme-stats.vercel.app/api?username=jabir7699&show_icons=true&theme=gotham&bg_color=#cc2b5e" alt="jabir7699" />
-
+</div>
 
 
