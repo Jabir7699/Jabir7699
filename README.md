@@ -30,9 +30,6 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: [@Jabir Ibrahim](https://instagram.com/jabir_ibrahim__);
 <br>
 <br>
-<div>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=jabir7699&show_icons=true&theme=gotham&bg_color=#cc2b5e" alt="jabir7699" />
-</div>
 
 
