@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 Hi, I'm Jabir Ibrahim, Experienced Data Engineer, passionate self-taught Front end  web developer and a freelance software engineer from India. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Expertise in PySpark/Spark, Scala, SQL ,kafka and the AWS ecosystem, with a proven history of migrating
+Expertise in PySpark/Spark, Scala, SQL ,kafka, Hadoop and the AWS/Cloudera ecosystem, with a proven history of migrating
 legacy systems to modern, high-throughput pipelines, achieving up to 50% faster execution times. Proficient
 in Data Quality and Governance to ensure production data is reliable and accurate for key stakeholders,
 including Analyst and ML Engineers. 
